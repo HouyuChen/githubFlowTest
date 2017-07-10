@@ -3,3 +3,4 @@ task demo 2 done
 task demo 3 done
 task demo 4 done
 task demo 5 done
+task demo 7 done
